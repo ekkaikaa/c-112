@@ -1,0 +1,69 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: lightcyan;
+}
+
+.header_div {
+    background-color: rgba(0, 250, 154, 0.589);
+    color: mediumpurple;
+}
+
+.header_div img {
+    width: 100px;
+}
+
+.main_div {
+    background-color: paleturquoise;
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid mistyrose;
+}
+
+.main_div label {
+    background-color: palegreen;
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 15px violet;
+}
+
+#camera,
+#result {
+    border: black 2px solid;
+    width: 310px;
+    height: 300px;
+    box-shadow: 5px 5px 15px violet;
+}
+
+.main_div button {
+    width: 310px;
+    font-size: 16px;
+    box-shadow: 5px 5px 7px violet;
+    border: 1px solid;
+
+}
+
+.footer_div {
+    margin-bottom: 50px;
+}
+
+.footer_div h4 {
+    background-color: aliceblue;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 5px 5px 15px violet;
+}
+
+.footer_div img {
+    width: 70px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: teal;
+    bottom: 0px;
+    width: 100%;
+    background-color: turquoise;
+    line-height: 3;
+    text-align: center; 
+}
